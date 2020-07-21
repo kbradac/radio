@@ -1,0 +1,21 @@
+Color:
+
+gold: B38C47
+spodaj temno nato pa zmeroj svetlej
+
+blue: 3C1C87
+spodaj temno nato pa zmeraj svetlej
+
+pink: D46690
+
+menu: 1A1E39
+
+backgroudn: 060817
+
+
+Druga možnost:
+Rjava: D9A566
+Kožna: F2D57E
+Odzajde first: 203140
+Second color: 274873
+purple: AC8FBF

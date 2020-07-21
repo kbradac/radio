@@ -1,0 +1,16 @@
+Linku od koder radiji črpajo streme
+
+PATH:
+https://live.radio.si/[radio]
+
+RADIO VESELJAK
+https://live.radio.si/Veseljak
+
+RADIO AKTUAL
+https://live.radio.si/Aktual
+
+RADIO CENTER
+http://stream3.radiocenter.si:8000/center
+
+RADIO GORENC
+http://stream.radiogorenc.si:8000/radiogorenc.mp3
