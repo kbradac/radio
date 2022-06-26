@@ -14,3 +14,6 @@ http://stream3.radiocenter.si:8000/center
 
 RADIO GORENC
 http://stream.radiogorenc.si:8000/radiogorenc.mp3
+
+RADIO SORA
+https://stream.radio-sora.si:8001/radio-sora.mp3
